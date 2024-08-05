@@ -1,0 +1,21 @@
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm1        ', N'Condo', N'Quebec', N'Montreal', 3, CAST(1000.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm2        ', N'Condo ', N'Quebec', N'Laval', 5, CAST(1200.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm3        ', N'Condo', N'Quebec', N'Montreal', 4, CAST(1300.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm4        ', N'Condo', N'Quebec', N'Longueuil', 4, CAST(1400.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm5        ', N'Condo', N'Quebec', N'Laval', 4, CAST(1000.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm6        ', N'Condo', N'Quebec', N'Longueuil', 2, CAST(1000.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm7        ', N'Condo', N'Quebec', N'Montreal', 5, CAST(1400.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm8        ', N'Condo', N'Quebec', N'Montreal', 2, CAST(800.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm10        ', N'Appart', N'Quebec', N'Montreal', 4, CAST(1700.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm9        ', N'Appart', N'Quebec', N'Longueuil', 4, CAST(1500.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm11        ', N'Appart', N'Quebec', N'Montreal', 5, CAST(1700.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm12        ', N'Appart', N'Quebec', N'Laval', 4, CAST(1200.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm13        ', N'Appart', N'Quebec', N'Montreal', 3, CAST(1400.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm14        ', N'Appart', N'Quebec', N'Montreal', 4, CAST(1700.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm15        ', N'UniFamilial', N'Quebec', N'Longueuil', 5, CAST(1500.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm16        ', N'UniFamilial', N'Quebec', N'Montreal', 6, CAST(1700.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm17        ', N'UniFamilial', N'Quebec', N'Laval', 3, CAST(1200.0000 AS Money), NULL)
+INSERT INTO [dbo].[Maisons] ([NumMaison], [Type], [Province], [Ville1], [NbreDePiece], [Prix], [Photo]) VALUES (N'm18        ', N'UniFamilial', N'Quebec', N'Montreal', 1, CAST(1400.0000 AS Money), NULL)
+
+
+
